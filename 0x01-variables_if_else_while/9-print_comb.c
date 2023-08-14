@@ -6,7 +6,6 @@
 
 /**
  * main - Returns all possible combinations of single-digit numbers.
- *
  * Return: 0.
  */
 
@@ -22,7 +21,6 @@ int main(void)
 		putchar(',');
 		putchar(' ');
 	}
-
 	putchar('\n');
 
 	return (0);
