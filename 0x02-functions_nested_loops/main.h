@@ -8,6 +8,6 @@
  */
 
 
-char _iputchar(char c);
+char _putchar(char c);
 
 #endif
