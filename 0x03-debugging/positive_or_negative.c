@@ -2,7 +2,7 @@
  *Author : Victor Omuya
  */
 
-include "main.h"
+#include "main.h"
 
 void positive_negative(int i)
 {
@@ -11,5 +11,5 @@ void positive_negative(int i)
 	else if(i < 0)
 		printf("%d is negative\n", i);
 	else
-		print("%d is zero\n", i);
+		printf("%d is zero\n", i);
 }
