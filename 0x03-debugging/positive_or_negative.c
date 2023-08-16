@@ -5,8 +5,9 @@
 
 #include "main.h"
 
-/*
+/**
  * positive_or_negative - returns sign of the number.
+ * @i: the number to be checked
  *
  * Return : what is in the print statement.
  */
