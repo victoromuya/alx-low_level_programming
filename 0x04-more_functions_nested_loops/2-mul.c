@@ -7,10 +7,10 @@
 
 /**
  * mul - multiplication of a and b
- * @a : The first number
- * @b : The second number
+ * @a: The first number
+ * @b: The second number
  *
- * Return : result of multiplication
+ * Return: Result of multiplication
  */
 
 int mul(int a, int b)
