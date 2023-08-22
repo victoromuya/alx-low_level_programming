@@ -1,1 +1,1 @@
-# read me for pointers
+# read me for low level languages
