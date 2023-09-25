@@ -1,9 +1,8 @@
 /*
  * File: 0-malloc_checked.c
- * Auth: Brennan D Baraban
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
@@ -12,6 +11,7 @@
  *
  * Return: A pointer to the allocated memory.
  */
+
 void *malloc_checked(unsigned int b)
 {
 	void *mem = malloc(b);
